@@ -1,4 +1,6 @@
 
-  npm i
-  mv .env_sample .env
-  npm run dev
+```
+npm i
+mv .env_sample .env
+npm run dev
+```
